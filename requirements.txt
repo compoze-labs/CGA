@@ -1,0 +1,17 @@
+# Required python libraries
+# processing
+pandas
+numpy
+scikit-learn
+jupyter
+pytest
+
+# data analysis + viz
+matplotlib
+seaborn
+
+# google colab
+import
+
+# LangGraph - commented out for now as beyond scope?
+#langgraph

@@ -1,17 +1,26 @@
 # Required python libraries
-# processing
+# AI processing, data analysis, viz
 pandas
 numpy
 scikit-learn
-jupyter
+import
+# pytest for lightweight validation
 pytest
-
-# data analysis + viz
 matplotlib
 seaborn
 
-# google colab
-import
+rich
+openpyxl
+pyarrow
+
+# --------- Runtime dependencies -----------
+# google colab setup
+# See colab_setup.ipynb
+
+# Jupyter notebook setup
+#jupyter
+
+# Future libraries that may be good
 
 # LangGraph - commented out for now as beyond scope?
 #langgraph

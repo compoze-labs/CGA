@@ -1,17 +1,32 @@
 # Required python libraries
 # AI processing, data analysis, viz
+import
+
 pandas
 numpy
 scikit-learn
-import
-# pytest for lightweight validation
 pytest
+
 matplotlib
 seaborn
-
 rich
 openpyxl
 pyarrow
+
+# Other libraries to consider
+#xgboost
+#lightgbm 
+#joblib 
+#t3qdm 
+#plotly
+# black
+#flake8
+#isort
+#python-dotenv
+#pyyaml
+#wandb
+#mlflow
+
 
 # --------- Runtime dependencies -----------
 # google colab setup
